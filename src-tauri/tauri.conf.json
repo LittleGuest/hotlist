@@ -1,10 +1,10 @@
 {
   "productName": "hotlist",
   "version": "0.0.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "com.pjq.hotlist",
   "build": {
     "beforeDevCommand": "yarn dev",
-    "devUrl": "http://localhost:1420",
+    "devUrl": "http://localhost:6699",
     "beforeBuildCommand": "yarn build",
     "frontendDist": "../dist"
   },
